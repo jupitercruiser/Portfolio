@@ -7,7 +7,7 @@ I am eager to contribute to innovative software projects that will contribute to
 an inclusive, secure and adaptable world.
 
 ## Projects
-- [Fish Segmentation](https://github.com/username/project1): Description of Project 1.
+- [Fish Segmentation]([https://github.com/username/project1](https://github.com/jupitercruiser/Portfolio/tree/1f534c252eeb968e26741aa6ed81e9f5086dc650/Fish%20Segmentation): Description of Project 1.
 - [Snake Game](https://github.com/username/project2): Description of Project 2.
 - [Explore London]
   
