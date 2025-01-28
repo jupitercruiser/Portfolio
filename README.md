@@ -11,6 +11,6 @@ an inclusive, secure and adaptable world.
 - [Snake Game](https://github.com/jupitercruiser/Portfolio/tree/e8e5b50be95f46170ab9f6a595da22a01b95e504/Snake%20Game): Classic snake game where users attempt to consume as much food as possible without running into walls or other players.
 - [Explore London](https://github.com/jupitercruiser/Portfolio/tree/52ffa73bbcd55cdd4ebaaaa53cf1fd5abedfdf9b/Explore%20London): Educational game that guides users through different eras and areas of London while simultaneously providing facts and quizzing users on the subjects. 
   
-## Contact
+## Contact Information
 - [LinkedIn](https://www.linkedin.com/in/brandycervantesgarcia)
 - [Email Me](mailto:brandy.cervantes@utah.edu)
