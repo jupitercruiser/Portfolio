@@ -1,7 +1,7 @@
 # Brandy Cervantes' Portfolio
 
 ## About Me
-I am a determined computer science major seeking an internship opportunity 
+Determined computer science major seeking an internship opportunity 
 to apply programming and problem-solving skills in a real-world environment. 
 I am eager to contribute to innovative projects that will contribute to
 an inclusive, secure and adaptable world.
