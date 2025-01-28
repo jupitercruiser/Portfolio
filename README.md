@@ -8,7 +8,7 @@ an inclusive, secure and adaptable world.
 
 ## Projects
 - [Fish Segmentation](https://github.com/username/project1): Description of Project 1.
-- [Spreadsheet](https://github.com/username/project2): Description of Project 2.
+- [Snake Game](https://github.com/username/project2): Description of Project 2.
 - [Explore London]
   
 ## Contact
