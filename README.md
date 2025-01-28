@@ -12,5 +12,5 @@ an inclusive, secure and adaptable world.
 - [Explore London](https://github.com/jupitercruiser/Portfolio/tree/52ffa73bbcd55cdd4ebaaaa53cf1fd5abedfdf9b/Explore%20London): Description of Project 3.
   
 ## Contact
-- [LinkedIn](www.linkedin.com/in/brandycervantesgarcia)
+- [LinkedIn](https://www.linkedin.com/in/brandycervantesgarcia)
 - [Email Me](mailto:brandy.cervantes@utah.edu)
